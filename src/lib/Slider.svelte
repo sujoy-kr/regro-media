@@ -1,0 +1,1 @@
+<div class="bg-green-400 w-full h-52">Slider</div>
